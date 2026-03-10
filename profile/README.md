@@ -1,12 +1,113 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# OAR (2026)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Description
+
+This project is carried out by a team of **four fifth-year engineering students at Polytech Grenoble**.
+
+The goal of the project is to **improve the monitoring and visualization of the OAR resource manager** by enhancing the dashboard and developing a **REST API using Rust and Axum**.
+
+The solution will provide **interactive visualizations of job scheduling and execution**, including **Gantt charts and real-time job tracking**, enabling administrators and users to better monitor computing resources.
+
+---
+
+# Objectives
+
+The main objectives of this project are:
+
+* Improve the **OAR dashboard**
+* Integrate a **dynamic Gantt chart visualization**
+* Develop a **REST API using Axum**
+* Provide **real-time job tracking and resource visualization**
+* Produce **architecture documentation and diagrams**
+
+---
+
+# Project Architecture
+
+The system is composed of three main layers:
+
+1. **OAR Resource Manager**
+   Handles job scheduling and resource allocation.
+
+2. **REST API (Rust + Axum)**
+   Provides a clean API to retrieve job data, scheduling information, and cluster status.
+
+3. **Web Dashboard**
+   Displays interactive visualizations including Gantt charts and monitoring tools.
+
+---
+
+
+
+# Expected Developments
+
+## 1. Dashboard Improvements
+
+* Improve the **existing dashboard**
+* Integrate **interactive Gantt chart visualizations**
+* Connect the dashboard to the **new REST API**
+* Improve **performance and usability**
+* Enable **real-time updates of jobs**
+
+---
+
+## 2. REST API Development
+
+A **REST API will be developed using Rust and Axum** to expose OAR scheduling data.
+
+### Main features
+
+* Retrieve **job information**
+* Retrieve **cluster resource usage**
+* Provide **job scheduling timelines**
+* Serve **data for the Gantt chart visualization**
+
+
+
+---
+
+# Repositories
+
+
+
+
+## Repositories
+
+[![Documentation](https://img.shields.io/badge/Documentation-blue)](https://github.com/OAR-26/docs)
+
+
+[![Dashboard](https://img.shields.io/badge/Dashboard-green)](https://github.com/OAR-26/goard-26)
+
+[![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
+
+
+# Technologies Used
+
+* **Rust**
+* **Axum (REST API framework)**
+* **OAR Resource Manager**
+* **JavaScript / Web dashboard**
+* **Gantt chart visualization libraries**
+
+---
+
+# Contact
+
+**Project Lead**
+Olivier Richard
+[olivier.richard@imag.fr](mailto:olivier.richard@imag.fr)
+
+**Project Manager**
+Salmane Amine 
+[mohammed-amine.salmane@etu.univ-grenoble-alpes.fr](mohammed-amine.salmane@etu.univ-grenoble-alpes.fr)
+
+---
+
+# Authors
+
+* Dila MEMIL
+* Moataz ER-RAMI
+* Aymane AMESSEGHER
+* Mohammed Amine SALMANE
