@@ -48,16 +48,6 @@ The system is composed of three main layers:
 [![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
 
 
-# Tech stack
-
-* **Rust**
-* **Axum (REST API framework)**
-* **OAR Resource Manager**
-* **JavaScript / Web dashboard**
-* **Gantt chart visualization libraries**
-
----
-
 # Contact
 
 **Project Lead**
