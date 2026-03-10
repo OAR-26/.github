@@ -38,41 +38,6 @@ The system is composed of three main layers:
    Displays interactive visualizations including Gantt charts and monitoring tools.
 
 ---
-
-
-
-# Expected Developments
-
-## 1. Dashboard Improvements
-
-* Improve the **existing dashboard**
-* Integrate **interactive Gantt chart visualizations**
-* Connect the dashboard to the **new REST API**
-* Improve **performance and usability**
-* Enable **real-time updates of jobs**
-
----
-
-## 2. REST API Development
-
-A **REST API will be developed using Rust and Axum** to expose OAR scheduling data.
-
-### Main features
-
-* Retrieve **job information**
-* Retrieve **cluster resource usage**
-* Provide **job scheduling timelines**
-* Serve **data for the Gantt chart visualization**
-
-
-
----
-
-# Repositories
-
-
-
-
 ## Repositories
 
 [![Documentation](https://img.shields.io/badge/Documentation-blue)](https://github.com/OAR-26/docs)
@@ -83,7 +48,7 @@ A **REST API will be developed using Rust and Axum** to expose OAR scheduling da
 [![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
 
 
-# Technologies Used
+# Tech stack
 
 * **Rust**
 * **Axum (REST API framework)**
