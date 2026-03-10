@@ -38,15 +38,6 @@ The system is composed of three main layers:
    Displays interactive visualizations including Gantt charts and monitoring tools.
 
 ---
-## Repositories
-
-[![Documentation](https://img.shields.io/badge/Documentation-blue)](https://github.com/OAR-26/docs)
-
-
-[![Dashboard](https://img.shields.io/badge/Dashboard-green)](https://github.com/OAR-26/goard-26)
-
-[![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
-
 
 # Contact
 
@@ -66,3 +57,7 @@ Salmane Amine
 * Moataz ER-RAMI
 * Aymane AMESSEGHER
 * Mohammed Amine SALMANE
+
+## Repositories
+
+[![Documentation](https://img.shields.io/badge/Documentation-blue)](https://github.com/OAR-26/docs) [![Dashboard](https://img.shields.io/badge/Dashboard-green)](https://github.com/OAR-26/goard-26) [![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
