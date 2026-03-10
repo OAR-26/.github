@@ -1,6 +1,7 @@
 
 
 # OAR (2026)
+[![Documentation](https://img.shields.io/badge/Documentation-blue)](https://github.com/OAR-26/docs) [![Dashboard](https://img.shields.io/badge/Dashboard-green)](https://github.com/OAR-26/goard-26) [![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
 
 ## Description
 
@@ -57,7 +58,3 @@ Salmane Amine
 * Moataz ER-RAMI
 * Aymane AMESSEGHER
 * Mohammed Amine SALMANE
-
-## Repositories
-
-[![Documentation](https://img.shields.io/badge/Documentation-blue)](https://github.com/OAR-26/docs) [![Dashboard](https://img.shields.io/badge/Dashboard-green)](https://github.com/OAR-26/goard-26) [![API](https://img.shields.io/badge/API-orange)](https://github.com/OAR-26/oar-api-redux)
